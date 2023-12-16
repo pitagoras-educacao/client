@@ -1,0 +1,19 @@
+# NodeJs
+node_modules/
+
+# Typescript
+dist/
+*.tsbuildinfo
+
+# Vite
+.vite/
+
+# Sqlite
+database/
+
+# Env files
+*.env
+
+# Jest
+coverage/
+
